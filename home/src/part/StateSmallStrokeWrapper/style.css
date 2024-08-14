@@ -1,0 +1,185 @@
+.state-small-stroke-wrapper {
+  all: unset;
+  align-items: center;
+  box-sizing: border-box;
+  display: inline-flex;
+  gap: 8px;
+  justify-content: center;
+  position: relative;
+}
+
+.state-small-stroke-wrapper .div {
+  font-family: "SF Pro Display-Medium", Helvetica;
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-top: -1px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.state-small-stroke-wrapper .icon-px-arrow-down {
+  background-size: 100% 100%;
+  height: 24px;
+  position: relative;
+  width: 24px;
+}
+
+.state-small-stroke-wrapper .label-2 {
+  font-family: "SF Pro Display-Medium", Helvetica;
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-top: -1px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.state-small-stroke-wrapper.state-2-white-stroke {
+  border: 1px solid;
+  border-color: var(--mainwhite);
+  border-radius: 6px;
+  padding: 16px 56px;
+}
+
+.state-small-stroke-wrapper.state-2-black-stroke {
+  border: 1px solid;
+  border-color: var(--mainblack);
+  border-radius: 6px;
+  padding: 16px 56px;
+}
+
+.state-small-stroke-wrapper.state-2-fill-small {
+  background-color: var(--mainblack);
+  border-radius: 8px;
+}
+
+.state-small-stroke-wrapper.state-2-fill {
+  background-color: var(--mainblack);
+  border-radius: 6px;
+  padding: 16px 56px;
+}
+
+.state-small-stroke-wrapper.state-2-small-stroke {
+  border: 1px solid;
+  border-color: #545454;
+  border-radius: 8px;
+}
+
+.state-small-stroke-wrapper.state-2-stroke-small {
+  border: 1px solid;
+  border-color: var(--mainwhite);
+  border-radius: 8px;
+}
+
+.state-small-stroke-wrapper.icon-0-false.state-2-small-stroke {
+  padding: 12px 64px;
+}
+
+.state-small-stroke-wrapper.state-2-stroke-small.icon-0-true {
+  padding: 12px 56px;
+}
+
+.state-small-stroke-wrapper.state-2-fill-small.icon-0-true {
+  padding: 12px 56px;
+}
+
+.state-small-stroke-wrapper.state-2-fill-small.icon-0-false {
+  padding: 12px 64px;
+}
+
+.state-small-stroke-wrapper.state-2-stroke-small.icon-0-false {
+  padding: 12px 64px;
+}
+
+.state-small-stroke-wrapper.icon-0-true.state-2-small-stroke {
+  padding: 12px 56px;
+}
+
+.state-small-stroke-wrapper.state-2-white-stroke .div {
+  color: var(--mainwhite);
+  font-size: 16px;
+}
+
+.state-small-stroke-wrapper.state-2-black-stroke .div {
+  color: var(--mainblack);
+  font-size: 16px;
+}
+
+.state-small-stroke-wrapper.state-2-fill-small .div {
+  color: var(--mainwhite);
+  font-size: 14px;
+}
+
+.state-small-stroke-wrapper.state-2-fill .div {
+  color: var(--mainwhite);
+  font-size: 16px;
+}
+
+.state-small-stroke-wrapper.state-2-small-stroke .div {
+  color: var(--mainblack);
+  font-size: 14px;
+}
+
+.state-small-stroke-wrapper.state-2-stroke-small .div {
+  color: var(--mainwhite);
+  font-size: 14px;
+}
+
+.state-small-stroke-wrapper.state-2-white-stroke .icon-px-arrow-down {
+  background-image: url(../../../static/img/expand-down-light-10.svg);
+}
+
+.state-small-stroke-wrapper.state-2-black-stroke .icon-px-arrow-down {
+  background-image: url(../../../static/img/expand-down-light-11.svg);
+}
+
+.state-small-stroke-wrapper.state-2-fill-small .icon-px-arrow-down {
+  background-image: url(../../../static/img/expand-down-light-10.svg);
+}
+
+.state-small-stroke-wrapper.state-2-fill .icon-px-arrow-down {
+  background-image: url(../../../static/img/expand-down-light-10.svg);
+}
+
+.state-small-stroke-wrapper.state-2-small-stroke .icon-px-arrow-down {
+  background-image: url(../../../static/img/expand-down-light-11.svg);
+}
+
+.state-small-stroke-wrapper.state-2-stroke-small .icon-px-arrow-down {
+  background-image: url(../../../static/img/expand-down-light-10.svg);
+}
+
+.state-small-stroke-wrapper.state-2-white-stroke .label-2 {
+  color: var(--mainwhite);
+  font-size: 16px;
+}
+
+.state-small-stroke-wrapper.state-2-black-stroke .label-2 {
+  color: var(--mainblack);
+  font-size: 16px;
+}
+
+.state-small-stroke-wrapper.state-2-fill-small .label-2 {
+  color: var(--mainwhite);
+  font-size: 14px;
+}
+
+.state-small-stroke-wrapper.state-2-fill .label-2 {
+  color: var(--mainwhite);
+  font-size: 16px;
+}
+
+.state-small-stroke-wrapper.state-2-small-stroke .label-2 {
+  color: var(--mainblack);
+  font-size: 14px;
+}
+
+.state-small-stroke-wrapper.state-2-stroke-small .label-2 {
+  color: var(--mainwhite);
+  font-size: 14px;
+}

@@ -1,0 +1,120 @@
+.home .products {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: #ffffff;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 32px;
+  padding: 56px 160px;
+  position: relative;
+  width: 100%;
+}
+
+.home .tags {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 32px;
+  position: relative;
+  width: 100%;
+}
+
+.home .selected {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  justify-content: center;
+  position: relative;
+}
+
+.home .text-wrapper-21 {
+  color: #000000;
+  font-family: "Inter", Helvetica;
+  font-size: 18px;
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: 32px;
+  margin-top: -1px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.home .line {
+  align-self: stretch;
+  height: 2px;
+  margin-bottom: -1px;
+  margin-left: -1px;
+  margin-right: -1px;
+  position: relative;
+  width: 100%;
+}
+
+.home .text-wrapper-22 {
+  color: #8b8b8b;
+  font-family: "Inter", Helvetica;
+  font-size: 18px;
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: 32px;
+  margin-top: -1px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.home .text-wrapper-23 {
+  color: #8b8b8b;
+  font-family: "Inter", Helvetica;
+  font-size: 18px;
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: 32px;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.home .row {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-wrap: wrap;
+  gap: 16px 16px;
+  position: relative;
+  width: 100%;
+}
+
+.home .product-card-instance {
+  flex: 1 !important;
+  flex-grow: 1 !important;
+  min-width: 200px !important;
+  width: unset !important;
+}
+
+.home .product-card-2 {
+  background-image: url(../../../static/img/favorite-duotone-7.svg) !important;
+  position: relative !important;
+}
+
+.home .product-card-3 {
+  font-family: "Inter", Helvetica !important;
+  font-weight: 600 !important;
+}
+
+.home .product-card-4 {
+  background-image: url(../../../static/img/favorite-duotone-15.svg) !important;
+  position: relative !important;
+}
+
+.home .product-card-5 {
+  background-image: url(../../../static/img/favorite-duotone-9.svg) !important;
+  position: relative !important;
+}

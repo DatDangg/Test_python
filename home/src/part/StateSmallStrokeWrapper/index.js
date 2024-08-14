@@ -1,0 +1,1 @@
+export { StateSmallStrokeWrapper } from "./StateSmallStrokeWrapper";

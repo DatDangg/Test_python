@@ -1,0 +1,1 @@
+export { IconSmartWatches } from "./IconSmartWatches";
