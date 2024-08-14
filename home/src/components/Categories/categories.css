@@ -1,4 +1,4 @@
-.home .category {
+.category {
   align-items: flex-start;
   align-self: stretch;
   background-color: #f9f9f9;
@@ -11,7 +11,7 @@
   width: 100%;
 }
 
-.home .top {
+.top {
   align-items: center;
   align-self: stretch;
   display: flex;
@@ -21,7 +21,7 @@
   width: 100%;
 }
 
-.home .text-wrapper-14 {
+.text-wrapper-14 {
   color: #000000;
   font-family: "Inter", Helvetica;
   font-size: 24px;
@@ -34,7 +34,7 @@
   width: fit-content;
 }
 
-.home .categories {
+.categories {
   align-items: flex-start;
   align-self: stretch;
   display: flex;
@@ -44,7 +44,7 @@
   width: 100%;
 }
 
-.home .category-card {
+.category-card {
   align-items: center;
   background-color: #ececec;
   border-radius: 15px;
@@ -58,13 +58,13 @@
   width: 160px;
 }
 
-.home .icon-instance-node {
+.icon-instance-node {
   height: 48px !important;
   position: relative !important;
   width: 48px !important;
 }
 
-.home .text-wrapper-15 {
+.text-wrapper-15 {
   color: #000000;
   font-family: "Inter", Helvetica;
   font-size: 16px;
@@ -79,7 +79,7 @@
   width: fit-content;
 }
 
-.home .text-wrapper-16 {
+.text-wrapper-16 {
   color: #000000;
   font-family: "Inter", Helvetica;
   font-size: 16px;
@@ -94,7 +94,7 @@
   width: fit-content;
 }
 
-.home .text-wrapper-17 {
+.text-wrapper-17 {
   color: #000000;
   font-family: "Inter", Helvetica;
   font-size: 16px;
@@ -109,7 +109,7 @@
   width: fit-content;
 }
 
-.home .text-wrapper-18 {
+.text-wrapper-18 {
   color: #000000;
   font-family: "Inter", Helvetica;
   font-size: 16px;
@@ -124,7 +124,7 @@
   width: fit-content;
 }
 
-.home .text-wrapper-19 {
+.text-wrapper-19 {
   color: #000000;
   font-family: "Inter", Helvetica;
   font-size: 16px;
@@ -139,7 +139,7 @@
   width: fit-content;
 }
 
-.home .text-wrapper-20 {
+.text-wrapper-20 {
   color: #000000;
   font-family: "Inter", Helvetica;
   font-size: 16px;

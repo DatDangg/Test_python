@@ -1,4 +1,4 @@
-.home .footer {
+.footer {
   align-items: flex-start;
   align-self: stretch;
   background-color: #000000;
@@ -12,7 +12,7 @@
   width: 100%;
 }
 
-.home .info-2 {
+.info-2 {
   align-items: flex-start;
   align-self: stretch;
   display: flex;
@@ -24,7 +24,7 @@
   width: 100%;
 }
 
-.home .logo-text {
+.logo-text {
   align-items: flex-start;
   display: inline-flex;
   flex: 0 0 auto;
@@ -33,7 +33,7 @@
   position: relative;
 }
 
-.home .text-wrapper-31 {
+.text-wrapper-31 {
   color: #cfcfcf;
   font-family: "Inter", Helvetica;
   font-size: 14px;
@@ -44,7 +44,7 @@
   width: 384px;
 }
 
-.home .footer-navigation {
+.footer-navigation {
   align-items: flex-start;
   display: flex;
   justify-content: space-between;
@@ -52,7 +52,7 @@
   width: 623px;
 }
 
-.home .section {
+.section {
   align-items: flex-start;
   display: flex;
   flex-direction: column;
@@ -61,7 +61,7 @@
   width: 295.5px;
 }
 
-.home .text-wrapper-32 {
+.text-wrapper-32 {
   color: #ffffff;
   font-family: "Inter", Helvetica;
   font-size: 16px;
@@ -74,7 +74,7 @@
   width: fit-content;
 }
 
-.home .text-wrapper-33 {
+.text-wrapper-33 {
   align-self: stretch;
   color: #cfcfcf;
   font-family: "Inter", Helvetica;
@@ -85,7 +85,7 @@
   position: relative;
 }
 
-.home .social-icons {
+.social-icons {
   align-items: flex-start;
   display: flex;
   flex: 0 0 auto;
@@ -94,7 +94,7 @@
   width: 173px;
 }
 
-.home .icon-instance-node-2 {
+.icon-instance-node-2 {
   height: 16px !important;
   position: relative !important;
   width: 16px !important;

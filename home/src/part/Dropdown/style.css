@@ -1,0 +1,29 @@
+.dropdown {
+  align-items: center;
+  background-color: #ffffff;
+  border: 0.5px solid;
+  border-color: #d3d3d3;
+  border-radius: 8px;
+  display: flex;
+  justify-content: space-between;
+  padding: 8px 16px;
+  position: relative;
+  width: 230px;
+}
+
+.dropdown .div {
+  color: #000000;
+  font-family: "SF Pro Display-Regular", Helvetica;
+  font-size: 15px;
+  font-weight: 400;
+  letter-spacing: -0.07px;
+  line-height: 16px;
+  position: relative;
+  width: 65px;
+}
+
+.dropdown .icon-chevron {
+  height: 24px !important;
+  position: relative !important;
+  width: 24px !important;
+}

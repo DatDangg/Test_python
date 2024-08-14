@@ -1,4 +1,4 @@
-.home .banner {
+.banner {
   align-items: center;
   align-self: stretch;
   background: linear-gradient(180deg, rgb(33, 28, 36) 0%, rgb(33, 28, 36) 100%);
@@ -12,7 +12,7 @@
   width: 100%;
 }
 
-.home .content {
+.content {
   align-items: flex-start;
   display: flex;
   flex: 1;
@@ -23,7 +23,7 @@
   position: relative;
 }
 
-.home .titles {
+.titles {
   align-items: flex-start;
   align-self: stretch;
   display: flex;
@@ -34,7 +34,7 @@
   width: 100%;
 }
 
-.home .text-wrapper-5 {
+.text-wrapper-5 {
   align-self: stretch;
   color: #ffffff;
   font-family: "Inter", Helvetica;
@@ -47,7 +47,7 @@
   position: relative;
 }
 
-.home .p {
+.p {
   align-self: stretch;
   color: #ffffff;
   font-family: "Inter", Helvetica;
@@ -58,17 +58,17 @@
   position: relative;
 }
 
-.home .span {
+.span {
   font-weight: 100;
   letter-spacing: -0.92px;
 }
 
-.home .text-wrapper-6 {
+.text-wrapper-6 {
   font-weight: 600;
   letter-spacing: -0.92px;
 }
 
-.home .text-wrapper-7 {
+.text-wrapper-7 {
   align-self: stretch;
   color: #909090;
   font-family: "Inter", Helvetica;
@@ -79,15 +79,15 @@
   position: relative;
 }
 
-.home .design-component-instance-node {
+.design-component-instance-node {
   flex: 0 0 auto !important;
 }
 
-.home .design-component-instance-node-2 {
+.design-component-instance-node-2 {
   font-family: "Inter", Helvetica !important;
 }
 
-.home .iphone-image {
+.iphone-image {
   background-image: url(../../../static/img/iphone-image.png);
   background-size: 100% 100%;
   height: 632px;

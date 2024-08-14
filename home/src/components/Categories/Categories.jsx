@@ -5,7 +5,7 @@ import { IconGaming1 } from "../../icons/IconGaming1";
 import { IconHeadphones1 } from "../../icons/IconHeadphones1";
 import { IconPhones1 } from "../../icons/IconPhones1";
 import { IconSmartWatches1 } from "../../icons/IconSmartWatches1";
-import "./style.css";
+import "./categories.css";
 
 export const Categories = () => {
     return (

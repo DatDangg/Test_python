@@ -1,0 +1,35 @@
+.checbox-field {
+  align-items: center;
+  display: flex;
+  gap: 8px;
+  position: relative;
+  width: 238px;
+}
+
+.checbox-field .apple {
+  color: var(--mainblack);
+  flex: 1;
+  font-family: "SF Pro Display-Medium", Helvetica;
+  font-size: 15px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-top: -1px;
+  position: relative;
+}
+
+.checbox-field .span {
+  color: #000000;
+  font-weight: 500;
+}
+
+.checbox-field .text-wrapper-2 {
+  color: #919191;
+  font-family: "SF Pro Display-Regular", Helvetica;
+  font-size: 12px;
+}
+
+.checbox-field .done-round {
+  flex: 0 0 auto !important;
+  position: relative !important;
+}

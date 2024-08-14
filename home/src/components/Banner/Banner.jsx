@@ -1,6 +1,6 @@
 import React from "react";
 import { Button } from "../../part/Button";
-import "./style.css";
+import "./banner.css";
 
 export const Banner = () => {
     return (

@@ -1,0 +1,43 @@
+.pagination {
+  align-items: center;
+  display: inline-flex;
+  gap: 16px;
+  height: 38px;
+  justify-content: center;
+  position: relative;
+}
+
+.pagination .icon-arrow {
+  height: 24px !important;
+  position: relative !important;
+  width: 24px !important;
+}
+
+.pagination .page-numbers {
+  align-items: flex-end;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 8px;
+  position: relative;
+}
+
+.pagination .page-number-instance {
+  flex: 0 0 auto !important;
+}
+
+.pagination .div-2 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 4px;
+  padding: 0px 0px 3px;
+  position: relative;
+}
+
+.pagination .ellipse {
+  background-color: #727272;
+  border-radius: 1.5px;
+  height: 3px;
+  position: relative;
+  width: 3px;
+}

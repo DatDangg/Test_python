@@ -1,4 +1,4 @@
-.home .products-type {
+.products-type {
   align-items: flex-start;
   align-self: stretch;
   display: flex;
@@ -6,7 +6,7 @@
   position: relative;
   width: 100%;
 }
-.home .big-banner-2 {
+.big-banner-2 {
   align-items: flex-start;
   background-color: #ffffff;
   display: flex;
@@ -20,7 +20,7 @@
   position: relative;
 }
 
-.home .title-text-4 {
+.title-text-4 {
   align-items: flex-start;
   align-self: stretch;
   display: flex;
@@ -32,7 +32,7 @@
   width: 100%;
 }
 
-.home .text-wrapper-24 {
+.text-wrapper-24 {
   align-self: stretch;
   color: #000000;
   font-family: "Inter", Helvetica;
@@ -44,7 +44,7 @@
   position: relative;
 }
 
-.home .text-wrapper-9 {
+.text-wrapper-9 {
   align-self: stretch;
   color: #909090;
   font-family: "Inter", Helvetica;
@@ -55,15 +55,15 @@
   position: relative;
 }
 
-.home .design-component-instance-node {
+.design-component-instance-node {
   flex: 0 0 auto !important;
 }
 
-.home .design-component-instance-node-2 {
+.design-component-instance-node-2 {
   font-family: "Inter", Helvetica !important;
 }
 
-.home .group {
+.group {
   height: 327px;
   left: 0;
   position: absolute;
@@ -71,7 +71,7 @@
   width: 360px;
 }
 
-.home .image-wrapper {
+.image-wrapper {
   background-image: url(../../../static/img/image-39.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -80,7 +80,7 @@
   top: -22px;
 }
 
-.home .image-2 {
+.image-2 {
   height: 236px;
   left: 117px;
   object-fit: cover;
@@ -89,7 +89,7 @@
   width: 243px;
 }
 
-.home .big-banner-3 {
+.big-banner-3 {
   align-items: flex-start;
   background-color: #f8f8f8;
   display: flex;
@@ -102,7 +102,7 @@
   position: relative;
 }
 
-.home .image-3 {
+.image-3 {
   height: 366px;
   left: 0;
   position: absolute;
@@ -110,7 +110,7 @@
   width: 360px;
 }
 
-.home .big-banner-4 {
+.big-banner-4 {
   align-items: flex-start;
   background-color: #eaeaea;
   display: flex;
@@ -123,7 +123,7 @@
   position: relative;
 }
 
-.home .image-4 {
+.image-4 {
   height: 360px;
   left: 0;
   position: absolute;
@@ -131,7 +131,7 @@
   width: 360px;
 }
 
-.home .big-banner-5 {
+.big-banner-5 {
   align-items: flex-start;
   background-color: #2b2b2b;
   display: flex;
@@ -144,7 +144,7 @@
   position: relative;
 }
 
-.home .text-wrapper-25 {
+.text-wrapper-25 {
   align-self: stretch;
   color: #ffffff;
   font-family: "Inter", Helvetica;
@@ -156,7 +156,7 @@
   position: relative;
 }
 
-.home .macbook {
+.macbook {
   height: 376px;
   left: 0;
   position: absolute;

@@ -1,4 +1,4 @@
-.home .products {
+.products {
   align-items: flex-start;
   align-self: stretch;
   background-color: #ffffff;
@@ -11,7 +11,7 @@
   width: 100%;
 }
 
-.home .tags {
+.tags {
   align-items: center;
   align-self: stretch;
   display: flex;
@@ -21,7 +21,7 @@
   width: 100%;
 }
 
-.home .selected {
+.selected {
   align-items: flex-start;
   display: inline-flex;
   flex: 0 0 auto;
@@ -30,7 +30,7 @@
   position: relative;
 }
 
-.home .text-wrapper-21 {
+.text-wrapper-21 {
   color: #000000;
   font-family: "Inter", Helvetica;
   font-size: 18px;
@@ -44,7 +44,7 @@
   width: fit-content;
 }
 
-.home .line {
+.line {
   align-self: stretch;
   height: 2px;
   margin-bottom: -1px;
@@ -54,7 +54,7 @@
   width: 100%;
 }
 
-.home .text-wrapper-22 {
+.text-wrapper-22 {
   color: #8b8b8b;
   font-family: "Inter", Helvetica;
   font-size: 18px;
@@ -68,7 +68,7 @@
   width: fit-content;
 }
 
-.home .text-wrapper-23 {
+.text-wrapper-23 {
   color: #8b8b8b;
   font-family: "Inter", Helvetica;
   font-size: 18px;
@@ -81,7 +81,7 @@
   width: fit-content;
 }
 
-.home .row {
+.row {
   align-items: flex-start;
   align-self: stretch;
   display: flex;
@@ -92,29 +92,29 @@
   width: 100%;
 }
 
-.home .product-card-instance {
+.product-card-instance {
   flex: 1 !important;
   flex-grow: 1 !important;
   min-width: 200px !important;
   width: unset !important;
 }
 
-.home .product-card-2 {
+.product-card-2 {
   background-image: url(../../../static/img/favorite-duotone-7.svg) !important;
   position: relative !important;
 }
 
-.home .product-card-3 {
+.product-card-3 {
   font-family: "Inter", Helvetica !important;
   font-weight: 600 !important;
 }
 
-.home .product-card-4 {
+.product-card-4 {
   background-image: url(../../../static/img/favorite-duotone-15.svg) !important;
   position: relative !important;
 }
 
-.home .product-card-5 {
+.product-card-5 {
   background-image: url(../../../static/img/favorite-duotone-9.svg) !important;
   position: relative !important;
 }

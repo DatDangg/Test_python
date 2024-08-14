@@ -3,7 +3,7 @@ import { Icon16PxFacebook } from "../../icons/Icon16PxFacebook";
 import { Icon16PxInstagram } from "../../icons/Icon16PxInstagram";
 import { Icon16PxTiktok1 } from "../../icons/Icon16PxTiktok1";
 import { Icon16PxTwitter } from "../../icons/Icon16PxTwitter";
-import "./style.css";
+import "./footer.css";
 
 export const Footer = () => {
     return (

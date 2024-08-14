@@ -1,6 +1,6 @@
 import React from "react";
 import { ProductCard } from "../../part/ProductCard";
-import "./style.css";
+import "./product.css";
 
 export const Product = () => {
     return (

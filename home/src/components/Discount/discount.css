@@ -1,5 +1,4 @@
-
-.home .discount-products {
+.discount-products {
     align-items: flex-start;
     align-self: stretch;
     background-color: #ffffff;
@@ -11,8 +10,7 @@
     position: relative;
     width: 100%;
   }
-  
-  .home .text-wrapper-26 {
+.text-wrapper-26 {
     color: #000000;
     font-family: "Inter", Helvetica;
     font-size: 24px;
@@ -25,8 +23,7 @@
     white-space: nowrap;
     width: fit-content;
   }
-  
-  .home .div-wrapper {
+.div-wrapper {
     align-self: stretch;
     background-image: url(../../../static/img/banner-2.png);
     background-position: 50% 50%;
@@ -35,8 +32,7 @@
     position: relative;
     width: 100%;
   }
-  
-  .home .content-4 {
+.content-4 {
     align-items: center;
     display: inline-flex;
     flex-direction: column;
@@ -45,8 +41,7 @@
     position: relative;
     top: 159px;
   }
-  
-  .home .titles-2 {
+.titles-2 {
     align-items: center;
     align-self: stretch;
     display: flex;
@@ -55,8 +50,7 @@
     position: relative;
     width: 100%;
   }
-  
-  .home .big-summer-sale {
+.big-summer-sale {
     color: #ffffff;
     font-family: "Inter", Helvetica;
     font-size: 72px;
@@ -69,23 +63,19 @@
     white-space: nowrap;
     width: fit-content;
   }
-  
-  .home .text-wrapper-27 {
+.text-wrapper-27 {
     font-weight: 100;
     letter-spacing: -0.52px;
   }
-  
-  .home .text-wrapper-28 {
+.text-wrapper-28 {
     font-weight: 300;
     letter-spacing: -0.52px;
   }
-  
-  .home .text-wrapper-29 {
+.text-wrapper-29 {
     font-weight: 500;
     letter-spacing: -0.52px;
   }
-  
-  .home .text-wrapper-30 {
+.text-wrapper-30 {
     align-self: stretch;
     color: #787878;
     font-family: "Inter", Helvetica;
@@ -96,8 +86,7 @@
     position: relative;
     text-align: center;
   }
-  
-  .home .icon-instance-node-2 {
+.icon-instance-node-2 {
     height: 16px !important;
     position: relative !important;
     width: 16px !important;
