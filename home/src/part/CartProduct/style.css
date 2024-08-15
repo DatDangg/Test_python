@@ -1,0 +1,84 @@
+.cart-product {
+  align-items: center;
+  display: flex;
+  gap: 15px;
+  padding: 16px 0px;
+  position: relative;
+  width: 536px;
+}
+
+.cart-product .content {
+  align-items: center;
+  display: flex;
+  flex: 1;
+  flex-grow: 1;
+  flex-wrap: wrap;
+  gap: 8px 0px;
+  position: relative;
+}
+
+.cart-product .info {
+  align-items: flex-start;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  flex-grow: 1;
+  gap: 8px;
+  min-width: 106px;
+  position: relative;
+}
+
+.cart-product .apple-iphone-pro {
+  align-self: stretch;
+  color: var(--mainblack);
+  font-family: "SF Pro Display-Medium", Helvetica;
+  font-size: 16px;
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-top: -1px;
+  position: relative;
+}
+
+.cart-product .element {
+  align-self: stretch;
+  color: var(--mainblack);
+  font-family: "SF Pro Display-Regular", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: relative;
+}
+
+.cart-product .right-side {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 24px;
+  justify-content: flex-end;
+  position: relative;
+}
+
+.cart-product .counter-instance {
+  flex: 0 0 auto !important;
+}
+
+.cart-product .div {
+  color: var(--mainblack);
+  font-family: "SF Pro Display-Medium", Helvetica;
+  font-size: 20px;
+  font-weight: 500;
+  letter-spacing: 0.6px;
+  line-height: 32px;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.cart-product .icon-close {
+  height: 24px !important;
+  position: relative !important;
+  width: 24px !important;
+}

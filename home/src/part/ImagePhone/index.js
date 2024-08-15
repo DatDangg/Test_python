@@ -1,0 +1,1 @@
+export { ImagePhone } from "./ImagePhone";

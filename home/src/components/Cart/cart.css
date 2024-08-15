@@ -1,0 +1,74 @@
+.cart {
+    align-items: flex-start;
+    display: flex;
+    flex: 1;
+    flex-direction: column;
+    flex-grow: 1;
+    gap: 40px;
+    position: relative;
+}
+
+.cart .text-wrapper-6 {
+    align-self: stretch;
+    color: #000000;
+    font-family: "Inter", Helvetica;
+    font-size: 24px;
+    font-weight: 600;
+    letter-spacing: 0;
+    line-height: 24px;
+    margin-top: -1px;
+    position: relative;
+}
+
+.cart .products {
+    align-items: flex-start;
+    align-self: stretch;
+    border-radius: 15px;
+    display: flex;
+    flex: 0 0 auto;
+    flex-direction: column;
+    gap: 40px;
+    position: relative;
+    width: 100%;
+}
+
+.cart .cart-product-instance {
+    align-self: stretch !important;
+    border-bottom-style: solid !important;
+    border-bottom-width: 0.5px !important;
+    border-color: #a2a2a2 !important;
+    flex: 0 0 auto !important;
+    padding: 16px 0px 32px !important;
+    width: 100% !important;
+}
+
+.cart .design-component-instance-node {
+    background-image: url(../../../static/img/image-56-2.png) !important;
+    background-position: 50% 50% !important;
+    background-size: cover !important;
+    position: relative !important;
+}
+
+.cart .design-component-instance-node-2 {
+    font-family: "Inter", Helvetica !important;
+}
+
+.cart .cart-product-2 {
+    background-image: url(../../../static/img/image-56-3.png) !important;
+    background-position: 50% 50% !important;
+    background-size: cover !important;
+    position: relative !important;
+}
+
+.cart .design-component-instance-node-3 {
+    align-self: stretch !important;
+    flex: 0 0 auto !important;
+    width: 100% !important;
+}
+
+.cart .cart-product-3 {
+    background-image: url(../../../static/img/image-56-4.png) !important;
+    background-position: 50% 50% !important;
+    background-size: cover !important;
+    position: relative !important;
+}

@@ -1,0 +1,149 @@
+.summary {
+    align-items: flex-start;
+    border: 1px solid;
+    border-color: #ebebeb;
+    border-radius: 10px;
+    display: flex;
+    flex: 1;
+    flex-direction: column;
+    flex-grow: 1;
+    gap: 40px;
+    padding: 56px 64px;
+    position: relative;
+}
+
+.summary .text-wrapper-7 {
+    align-self: stretch;
+    color: #111111;
+    font-family: "Inter", Helvetica;
+    font-size: 20px;
+    font-weight: 700;
+    letter-spacing: 0;
+    line-height: 16px;
+    margin-top: -1px;
+    position: relative;
+}
+
+.summary .content-3 {
+    align-items: center;
+    align-self: stretch;
+    display: flex;
+    flex: 0 0 auto;
+    flex-direction: column;
+    gap: 48px;
+    position: relative;
+    width: 100%;
+}
+
+.summary .div-2 {
+    align-items: flex-start;
+    align-self: stretch;
+    display: flex;
+    flex: 0 0 auto;
+    flex-direction: column;
+    gap: 24px;
+    position: relative;
+    width: 100%;
+}
+
+.summary .label-field-instance {
+    display: flex !important;
+    flex: unset !important;
+    width: 76.45px !important;
+}
+
+.summary .design-component-instance-node-3 {
+    align-self: stretch !important;
+    flex: 0 0 auto !important;
+    width: 100% !important;
+  }
+
+  .summary .design-component-instance-node-2 {
+    font-family: "Inter", Helvetica !important;
+  }
+.summary .div-3 {
+    align-items: flex-start;
+    align-self: stretch;
+    display: flex;
+    flex: 0 0 auto;
+    flex-direction: column;
+    gap: 16px;
+    position: relative;
+    width: 100%;
+}
+
+.summary .div-4 {
+    align-items: center;
+    align-self: stretch;
+    display: flex;
+    flex: 0 0 auto;
+    justify-content: space-between;
+    position: relative;
+    width: 100%;
+}
+
+.summary .text-wrapper-8 {
+    color: #000000;
+    flex: 1;
+    font-family: "Inter", Helvetica;
+    font-size: 16px;
+    font-weight: 500;
+    letter-spacing: 0.48px;
+    line-height: 24px;
+    position: relative;
+}
+
+.summary .text-wrapper-9 {
+    color: #000000;
+    font-family: "Inter", Helvetica;
+    font-size: 16px;
+    font-weight: 500;
+    letter-spacing: 0.48px;
+    line-height: 32px;
+    margin-top: -1px;
+    position: relative;
+    white-space: nowrap;
+    width: fit-content;
+}
+
+.summary .div-5 {
+    align-items: flex-start;
+    align-self: stretch;
+    display: flex;
+    flex: 0 0 auto;
+    flex-direction: column;
+    gap: 8px;
+    position: relative;
+    width: 100%;
+}
+
+.summary .text-wrapper-10 {
+    color: #545454;
+    flex: 1;
+    font-family: "Inter", Helvetica;
+    font-size: 16px;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: 32px;
+    margin-top: -1px;
+    position: relative;
+}
+
+.summary .estimated-shipping {
+    color: #545454;
+    flex: 1;
+    font-family: "Inter", Helvetica;
+    font-size: 16px;
+    font-weight: 400;
+    letter-spacing: 0.48px;
+    line-height: 32px;
+    margin-top: -1px;
+    position: relative;
+}
+
+.summary .button-instance {
+    align-self: stretch !important;
+    display: flex !important;
+    flex: 0 0 auto !important;
+    width: 100% !important;
+}
